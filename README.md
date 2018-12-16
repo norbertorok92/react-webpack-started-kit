@@ -3,10 +3,10 @@
 🚀 A React (web) + Webpack 4 + Babel starter kit, to get you up and running very, very quickly 🚀
 
 ### Install dependencies
-npm install
+`npm install`
 
-### Serve on localhost:3000
-npm start
+### Serve on localhost:808X
+`npm start`
 
 ### Build for production
-npm run build
+`npm run build`
