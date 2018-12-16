@@ -1,7 +1,7 @@
 {
-  "name": "react-chat-app",
+  "name": "react-webpack-started-kit",
   "version": "1.0.0",
-  "description": "A webapp for multiple messaging platforms",
+  "description": "Boilerplae for React web apps, enhanced with webpack and babel",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/norbertorok92/react-chat-app.git"
+    "url": "git+https://github.com/norbertorok92/react-webpack-started-kit.git"
   },
   "author": "Norbert Torok",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/norbertorok92/react-chat-app/issues"
+    "url": "https://github.com/norbertorok92/react-webpack-started-kit/issues"
   },
-  "homepage": "https://github.com/norbertorok92/react-chat-app#readme",
+  "homepage": "https://github.com/norbertorok92/react-webpack-started-kit#readme",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
